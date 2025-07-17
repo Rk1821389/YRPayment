@@ -46,6 +46,7 @@
 
 /* Begin PBXFileReference section */
 		0B3EFAF0232DCBC100F059AF /* OCRAStd.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = OCRAStd.otf; sourceTree = "<group>"; };
+		2C6185FC2E2928010053BE41 /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 		FB39D80D22BF69EE004DAE60 /* YRPaymentCreditCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YRPaymentCreditCard.swift; sourceTree = "<group>"; };
 		FB39D81F22C485F9004DAE60 /* YRPayment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YRPayment.swift; sourceTree = "<group>"; };
 		FB39D82122C48B6C004DAE60 /* YRTools.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YRTools.swift; sourceTree = "<group>"; };
@@ -97,6 +98,7 @@
 		FBADEDA722BF646900737BCE = {
 			isa = PBXGroup;
 			children = (
+				2C6185FC2E2928010053BE41 /* Package.swift */,
 				FBADEDB322BF646A00737BCE /* YRPayment */,
 				FBADEDC122BF64C400737BCE /* YRPaymentExample */,
 				FBADEDB222BF646A00737BCE /* Products */,

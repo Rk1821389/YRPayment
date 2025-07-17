@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import UIKit
 
 public final class YRPayment: NSObject, UITextFieldDelegate {
     public let creditCard: YRPaymentCreditCard

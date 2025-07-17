@@ -8,7 +8,7 @@
 
 import UIKit
 
-public final class YRPaymentCreditCard: UIView, CAAnimationDelegate {
+public final class YRPaymentCreditCard: UIView, @preconcurrency CAAnimationDelegate {
     var cardType = YRCreditCardType.masterCard
     var flipOnClick = true
 

@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import UIKit
 
 extension CGRect {
     static func + (rect: CGRect, i: CGFloat) -> CGRect {

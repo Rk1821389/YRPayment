@@ -1,11 +1,4 @@
-//
-//  Package.swift
-//  YRPayment
-//
-//  Created by Rahul on 17/07/25.
-//  Copyright © 2025 Yassir RAMDANI. All rights reserved.
-//
-// swift-tools-version:5.7
+// swift-tools-version:5.6
 import PackageDescription
 
 let package = Package(
